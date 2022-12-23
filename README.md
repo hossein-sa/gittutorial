@@ -178,6 +178,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [reza.hiphop](https://github.com/zelash0)
 - [abdolkarim khaki :feelsgood::feelsgood::feelsgood:](https://github.com/khakiboy)
 - [Ali Nasir](https://github.com/Ali-Nasir-01)
+- [Hossein Sadeghi](https://github.com/hossein-sa)
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
 - [mohammad](https://github.com/mohammadof313)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
